@@ -24,6 +24,7 @@
                                     <div class="col-md-9">
                                         <label><input type="radio" name="choice" value="odd"/> Odd</label>
                                         <label><input type="radio" name="choice" value="even"/> Even</label>
+                                        <label><input type="radio" name="choice" value="none"/> As It is </label>
                                     </div>
                                 </div>
                                 <div class="row mb-3">
